@@ -15,3 +15,8 @@ Detalhes:
 Para facilitar a verificação dos dados (DB), o projeto está configurado com um banco .sqlite
 
 Basta remover o .example do arquivo .env.exemple, que já estará pronto para uso o projeto.
+
+
+Login:
+E-mail: exemple@exemple.com 
+Senha: 123456789
